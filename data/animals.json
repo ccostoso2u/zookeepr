@@ -126,6 +126,15 @@
         "hungry"
       ],
       "id": "12"
+    },
+    {
+      "name": "Larry3",
+      "species": "Larryopterix",
+      "diet": "folivore",
+      "personalityTraits": [
+        "anxious"
+      ],
+      "id": "13"
     }
   ]
 }
